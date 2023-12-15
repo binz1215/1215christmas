@@ -1,4 +1,4 @@
-import {}
+import { inputMenu } from "../view/inputView";
 
 class ClassName {
   #object_XY;
